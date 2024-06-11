@@ -33,7 +33,7 @@ class _CurrencyConvertor extends State<CurrencyConvertorMateral> {
             ),
             backgroundColor: Colors.grey,
             centerTitle: true,
-            elevation: 0,
+            elevation: 5,
           ),
           body: Center(
             child: Padding(
